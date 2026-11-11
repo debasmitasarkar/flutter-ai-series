@@ -1,0 +1,23 @@
+name: one_interface
+description: 'Code for the article One Chat Screen, Two Brains - Gemini and Claude Behind a Single Dart Interface.'
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_ai: ^5.1.0
+  firebase_core: ^5.1.0
+  http: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

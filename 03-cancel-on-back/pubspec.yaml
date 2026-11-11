@@ -1,0 +1,24 @@
+name: cancel_on_back
+description: Code for "Cancelling an AI Request in Flutter When the User Taps Back".
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.9.0
+  # StreamingMarkdown from Part 2, used by AnswerScreen.
+  streaming_markdown:
+    path: ../02-streaming-markdown
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

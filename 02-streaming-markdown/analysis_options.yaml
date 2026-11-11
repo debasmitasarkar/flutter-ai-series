@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # The article keeps `if (_doneWidget != null) _doneWidget!` for readability.
+    use_null_aware_elements: false

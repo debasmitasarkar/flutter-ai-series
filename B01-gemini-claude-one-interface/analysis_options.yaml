@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # The article's builders use `(_, text, __)`.
+    unnecessary_underscores: false
