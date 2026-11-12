@@ -24,6 +24,7 @@ I'm a Google Developer Expert for Flutter and Dart.
 | 5 Migrations to Finish Before Flutter 3.50 Lands | [R01-pre-3-50-migrations](R01-pre-3-50-migrations) (checklist only) | https://medium.com/p/4061a1113128 |
 | I Moved a 15-Plugin Flutter App Off CocoaPods Before 2 December | [R03-cocoapods-to-spm](R03-cocoapods-to-spm) (commands only) | https://medium.com/p/5e80804f7a6c |
 | My Favourite Updates in Flutter 3.50 (and Dart 3.14) | [R02-flutter-3-50-favourites](R02-flutter-3-50-favourites) | https://medium.com/p/529b79c19d73 |
+| Your Flutter Web Users Are Still Running Last Week's Build. Flutter 3.50 Fixes That. | [R07-web-content-hash](R07-web-content-hash) | https://medium.com/p/e97b7daea8f9 |
 
 ## How the folders work
 

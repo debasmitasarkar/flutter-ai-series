@@ -1,6 +1,6 @@
 # Flutter 3.50: `--web-content-hash` and stale Flutter web deploys
 
-Code for [Your Flutter Web Users Are Still Running Last Week's Build](MEDIUM_URL).
+Code for [Your Flutter Web Users Are Still Running Last Week's Build](https://medium.com/p/e97b7daea8f9).
 
 Built and run on **Flutter 3.50.0 stable / Dart 3.14.0**.
 
