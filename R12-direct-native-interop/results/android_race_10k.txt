@@ -1,0 +1,4 @@
+CPH2585 (OnePlus), Android 16, Flutter 3.50.0 profile build, RacePage 10,000 x uptimeMs, 3 cold starts:
+direct (JNIgen): 14.9 ms, 18.6 ms, 17.8 ms
+MethodChannel:  961.2 ms, 981.3 ms, 1003.3 ms
+Emulator (sdk_gphone16k_arm64, profile, for the GIF only): direct 19.4 ms, MethodChannel 10587.3 ms
