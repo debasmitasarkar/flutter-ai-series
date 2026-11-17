@@ -27,6 +27,7 @@ I'm a Google Developer Expert for Flutter and Dart.
 | Your Flutter Web Users Are Still Running Last Week's Build. Flutter 3.50 Fixes That. | [R07-web-content-hash](R07-web-content-hash) | https://medium.com/p/e97b7daea8f9 |
 | Your App Moved to material_ui. Your Packages Didn't. | [R05-packages-left-behind](R05-packages-left-behind) | https://medium.com/p/d04e2feab6c7 |
 | Flutter 3.50 Made Platform Channels Optional. I Timed 10,000 Native Calls Both Ways. | [R12-direct-native-interop](R12-direct-native-interop) | https://medium.com/p/61fe0ad71261 |
+| I Turned On Flutter 3.50's --no-deprecated-js-interop. The Build Passed. The App Spoke English to a German. | [R08-js-interop-audit](R08-js-interop-audit) | https://medium.com/p/9123cc454b60 |
 
 ## How the folders work
 
