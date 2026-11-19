@@ -1,0 +1,5 @@
+# 350-release-api36 in-app (sdk_gphone64_arm64 API 36)
+## notify_route_extra: I flutter : LAB entry=main route=/checkout
+## relaunch_route_extra: I flutter : LAB entry=main route=/checkout
+## notify_deep_link: I flutter : LAB entry=main route=intentlab://open/checkout
+## relaunch_deep_link: I flutter : LAB entry=main route=intentlab://open/checkout

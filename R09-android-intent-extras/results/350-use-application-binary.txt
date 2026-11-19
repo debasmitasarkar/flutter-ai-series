@@ -1,0 +1,3 @@
+Running a prebuilt APK with --use-application-binary in release mode with flags used to configure the Flutter Android engine (--route) is no longer supported. Define the required flags via the Android manifest instead. See https://docs.flutter.dev/release/breaking-changes/restrict-command-line-flags-prebuilt-android-release-binaries for more details.
+-----
+Running a prebuilt APK with --use-application-binary in release mode with flags used to configure the Flutter Android engine (--trace-startup) is no longer supported. Define the required flags via the Android manifest instead. See https://docs.flutter.dev/release/breaking-changes/restrict-command-line-flags-prebuilt-android-release-binaries for more details.

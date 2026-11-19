@@ -1,0 +1,5 @@
+# 350-release, in-app launches (sdk_gphone64_arm64 API 36)
+## relaunch (app calls startActivity on itself with route extra)
+I flutter : LAB entry=main route=/checkout
+## notification tap (PendingIntent created by the app, route extra)
+I flutter : LAB entry=main route=/checkout

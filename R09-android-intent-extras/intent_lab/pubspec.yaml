@@ -1,0 +1,12 @@
+name: intent_lab
+description: "R09: which Intent extras a Flutter release build still honours (3.38 vs 3.50)."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  # Builds on Flutter 3.38 (Dart 3.10) and 3.50 (Dart 3.14), so the same app runs on both.
+  sdk: '>=3.10.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter

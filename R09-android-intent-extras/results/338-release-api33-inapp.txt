@@ -1,0 +1,3 @@
+# 338-release-api33 in-app (old APK, route extra only; run 2026-11-19 ~17:00)
+## relaunch_route_extra: I flutter : LAB entry=main route=/checkout
+## notify_route_extra: I flutter : LAB entry=main route=/checkout

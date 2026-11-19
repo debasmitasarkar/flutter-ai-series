@@ -1,0 +1,16 @@
+# 338-release  (sdk_gphone64_arm64 API 36)
+## plain: am start -n dev.debo.r09.intent_lab/.MainActivity
+I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+I flutter : LAB entry=main route=/
+## route: am start -n dev.debo.r09.intent_lab/.MainActivity --es route /checkout
+I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+I flutter : LAB entry=main route=/checkout
+## entrypoint: am start -n dev.debo.r09.intent_lab/.MainActivity --es dart_entrypoint qaMain
+I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+I flutter : LAB entry=qaMain route=/
+## engine_flag: am start -n dev.debo.r09.intent_lab/.MainActivity --es impeller-backend vulkan
+I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+I flutter : LAB entry=main route=/
+## deep_link: am start -a android.intent.action.VIEW -d intentlab://open/checkout dev.debo.r09.intent_lab
+I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+I flutter : LAB entry=main route=intentlab://open/checkout
