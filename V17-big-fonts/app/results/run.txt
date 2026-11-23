@@ -1,0 +1,51 @@
+before 320x568 (iPhone SE 1st gen) @1.0 | overflows=1 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=true
+    A RenderFlex overflowed by 1.2 pixels on the right.
+before 320x568 (iPhone SE 1st gen) @1.3 | overflows=3 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=false
+    A RenderFlex overflowed by 45 pixels on the right.
+    A RenderFlex overflowed by 45 pixels on the right.
+    A RenderFlex overflowed by 38 pixels on the right.
+before 320x568 (iPhone SE 1st gen) @1.5 | overflows=3 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=false
+    A RenderFlex overflowed by 83 pixels on the right.
+    A RenderFlex overflowed by 74 pixels on the right.
+    A RenderFlex overflowed by 86 pixels on the right.
+before 320x568 (iPhone SE 1st gen) @2.0 | overflows=4 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=false
+    A RenderFlex overflowed by 8.0 pixels on the bottom.
+    A RenderFlex overflowed by 176 pixels on the right.
+    A RenderFlex overflowed by 146 pixels on the right.
+    A RenderFlex overflowed by 208 pixels on the right.
+before 360x640 (small Android) @1.0 | overflows=0 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=true
+before 360x640 (small Android) @1.3 | overflows=2 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=true
+    A RenderFlex overflowed by 5.5 pixels on the right.
+    A RenderFlex overflowed by 4.7 pixels on the right.
+before 360x640 (small Android) @1.5 | overflows=3 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=true
+    A RenderFlex overflowed by 43 pixels on the right.
+    A RenderFlex overflowed by 34 pixels on the right.
+    A RenderFlex overflowed by 46 pixels on the right.
+before 360x640 (small Android) @2.0 | overflows=4 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=false
+    A RenderFlex overflowed by 8.0 pixels on the bottom.
+    A RenderFlex overflowed by 136 pixels on the right.
+    A RenderFlex overflowed by 106 pixels on the right.
+    A RenderFlex overflowed by 168 pixels on the right.
+before 390x844 (iPhone 14) @1.0 | overflows=0 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=true
+before 390x844 (iPhone 14) @1.3 | overflows=0 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=true
+before 390x844 (iPhone 14) @1.5 | overflows=3 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=true
+    A RenderFlex overflowed by 13 pixels on the right.
+    A RenderFlex overflowed by 3.7 pixels on the right.
+    A RenderFlex overflowed by 16 pixels on the right.
+before 390x844 (iPhone 14) @2.0 | overflows=4 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=false
+    A RenderFlex overflowed by 8.0 pixels on the bottom.
+    A RenderFlex overflowed by 106 pixels on the right.
+    A RenderFlex overflowed by 76 pixels on the right.
+    A RenderFlex overflowed by 138 pixels on the right.
+fixed 320x568 (iPhone SE 1st gen) @1.0 | overflows=0 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=true
+fixed 320x568 (iPhone SE 1st gen) @1.3 | overflows=0 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=true
+fixed 320x568 (iPhone SE 1st gen) @1.5 | overflows=0 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=true
+fixed 320x568 (iPhone SE 1st gen) @2.0 | overflows=0 | pay bottom=552/568 onScreen=true tappable=true pickupTappable=true
+fixed 360x640 (small Android) @1.0 | overflows=0 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=true
+fixed 360x640 (small Android) @1.3 | overflows=0 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=true
+fixed 360x640 (small Android) @1.5 | overflows=0 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=true
+fixed 360x640 (small Android) @2.0 | overflows=0 | pay bottom=624/640 onScreen=true tappable=true pickupTappable=true
+fixed 390x844 (iPhone 14) @1.0 | overflows=0 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=true
+fixed 390x844 (iPhone 14) @1.3 | overflows=0 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=true
+fixed 390x844 (iPhone 14) @1.5 | overflows=0 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=true
+fixed 390x844 (iPhone 14) @2.0 | overflows=0 | pay bottom=828/844 onScreen=true tappable=true pickupTappable=true
