@@ -1,0 +1,8 @@
+Analyzing upgrade_350...                                        
+
+   info • 'package:flutter/material.dart' is deprecated and shouldn't be used. Use package:material_ui/material_ui.dart instead. This feature was deprecated after v3.47.0-0.0.pre. Try replacing the use of the deprecated member with the replacement • lib/main.dart:1:1 • deprecated_member_use
+   info • 'package:flutter/material.dart' is deprecated and shouldn't be used. Use package:material_ui/material_ui.dart instead. This feature was deprecated after v3.47.0-0.0.pre. Try replacing the use of the deprecated member with the replacement • lib/shop_screen.dart:1:1 • deprecated_member_use
+  error • The named parameter 'ignoringSemantics' isn't defined. Try correcting the name to an existing named parameter's name, or defining a named parameter with the name 'ignoringSemantics' • lib/shop_screen.dart:47:13 • undefined_named_parameter
+   info • 'package:flutter/material.dart' is deprecated and shouldn't be used. Use package:material_ui/material_ui.dart instead. This feature was deprecated after v3.47.0-0.0.pre. Try replacing the use of the deprecated member with the replacement • test/upgrade_test.dart:3:1 • deprecated_member_use
+
+4 issues found. (ran in 1.3s)

@@ -1,0 +1,6 @@
+hyphen Geschirr|spül|maschine: lines=2 widths=89.8/68.5 longest=145.0 exceeded=false
+hyphen Kühl|schrank|thermo|meter: lines=2 widths=137.8/40.9 longest=145.0 exceeded=false
+hyphen Kopf|hörer|verstärker: lines=1 widths=141.4 longest=141.4 exceeded=false
+hyphen Wasser|kocher: lines=1 widths=101.7 longest=101.7 exceeded=false
+rtl reverse=true truck.x=538 badge.x=427 truckFirstInRtl=true
+rtl reverse=false truck.x=427 badge.x=538 truckFirstInRtl=false
