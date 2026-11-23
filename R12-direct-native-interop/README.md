@@ -19,7 +19,6 @@ cd interop_bench
 flutter run --profile            # on a real device; read the BENCH line from the log
 
 # regenerate the bindings
-flutter build apk                # once, so JNIgen can find the Android classpath
 dart run tool/jnigen.dart
 dart run tool/ffigen.dart        # needs Xcode; edit the SDK path at the top if yours differs
 ```
