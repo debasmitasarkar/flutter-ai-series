@@ -1,0 +1,11 @@
+V15STEP : launch
+V15ACT  : onCreate restored=false
+V15STATE list initState size=0x0 scroll=-1 note="-" playMs=-1
+V15STATE list initState size=883x852 scroll=-1 note="-" playMs=-1
+V15STATE metrics size=883x852 scroll=0 note="-" playMs=-1
+V15STATE detail initState size=883x852 scroll=2400 note="" playMs=0
+V15STATE setup size=883x852 scroll=2400 note="Leave at the back door" playMs=2000
+V15STEP : rotate
+V15STATE metrics size=852x883 scroll=2400 note="Leave at the back door" playMs=12700
+V15STEP : rotate-again
+V15STATE metrics size=883x852 scroll=2400 note="Leave at the back door" playMs=18800

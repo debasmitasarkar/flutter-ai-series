@@ -1,0 +1,14 @@
+V15STEP : launch-unfolded
+V15ACT  : onCreate restored=false
+V15STATE list initState size=852x883 scroll=-1 note="-" playMs=-1
+V15STATE metrics size=852x883 scroll=0 note="-" playMs=-1
+V15STATE detail initState size=852x883 scroll=2400 note="" playMs=0
+V15STATE setup size=852x883 scroll=2400 note="Leave at the back door" playMs=2000
+V15STEP : fold
+V15STATE metrics size=852x883 scroll=2400 note="Leave at the back door" playMs=12700
+V15STATE metrics size=443x994 scroll=2400 note="Leave at the back door" playMs=14800
+V15STEP : unfold
+V15STATE metrics size=852x883 scroll=2400 note="Leave at the back door" playMs=19000
+V15STATE metrics size=852x883 scroll=2400 note="Leave at the back door" playMs=20900
+V15STEP : rotate-landscape
+V15STEP : rotate-back
